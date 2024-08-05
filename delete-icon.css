@@ -1,0 +1,19 @@
+
+/* Styles for delete icon */
+.quantity-selector .delete-icon {
+    color: red;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 700;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    width: 20px;
+    cursor: pointer; /* Changes cursor to hand symbol on hover */
+}
+
+.quantity-selector .delete-icon:hover {
+    color: darkred; /* Optional: Change color on hover for better visibility */
+}
